@@ -18,7 +18,6 @@ If you're into classic motorcycles, dirt bikes, or JDM cars — we should defini
 🎯 **Career Goals**  
 Become a skilled and impactful **Data Engineer**, achieve **800+ TOEIC**, and ride my own **Bigboy 250** 🏍️
 
----
 
 ## 🌐 Socials
 
