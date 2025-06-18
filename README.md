@@ -25,11 +25,3 @@ Become a skilled and impactful **Data Engineer**, achieve **800+ TOEIC**, and ri
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/boisanhdieu123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tontide1)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tide.tantai@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tontide1&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=tontide1&theme=catppuccin_latte&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tontide1&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
